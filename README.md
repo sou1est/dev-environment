@@ -15,3 +15,7 @@ List of extensions I use for development
 * VS intellicode
 * Docker
 * Theme TokyoNight \ Night Owl
+
+## Terminal 
+* Theme dracula
+
