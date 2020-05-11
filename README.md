@@ -17,13 +17,13 @@ List of extensions I use for development
 * Theme TokyoNight \ Night Owl
 
 
-### Font 
-** <a href="https://github.com/tonsky/FiraCode">FiraCode<a/>**
+## Font 
+<a href="https://github.com/tonsky/FiraCode">FiraCode<a/>
 
 ## Terminal 
 * Theme dracula
 
-# OS
+## OS
 Pop OS
 ## Gnome
 * Ubuntu appindicators
