@@ -16,6 +16,20 @@ List of extensions I use for development
 * Docker
 * Theme TokyoNight \ Night Owl
 
+
+### Font 
+** <a href="https://github.com/tonsky/FiraCode">FiraCode<a/>**
+
 ## Terminal 
 * Theme dracula
+
+# OS
+Pop OS
+## Gnome
+* Ubuntu appindicators
+* Dash to panel
+* Alt tab raise first window 
+* Always show workspaces
+* Pop battery icon
+* Sound input * output 
 
